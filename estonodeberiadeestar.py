@@ -1,0 +1,1 @@
+print("pero llega el weekend y me pongo mal, salgo a ")
